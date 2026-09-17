@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-V-Arun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=Arjun-V-Arun&color=blue)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Arjun-V-Arun&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
